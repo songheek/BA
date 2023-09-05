@@ -1,0 +1,6 @@
+"customerID","customerName","Age","Fan_Mailing_List","Customer_Type","Game_ID","Num_Tickets_Purchased","Seat_Location","Ticket_Price","Concession_Purchases","Days_Before_Game"
+"13a19a2d8c0c6df2","Turner, Nadia",52,"No","Planner","685495b17d38",10,"Lower",155.53,34.75,28
+"549329135798fb72","Valadez, Joel",33,"No","Last-Minute","fa672ddd6ed9",1,"Upper",228.75,0,1
+"881b0abac250e536","Byerhof, Austin",50,"No","Last-Minute","b498d1ee4288",1,"Upper",166.43,0,3
+"1bd5437a8b98bff3","Wismer, Jillian",48,"No","In-Between","ec759d4ded1c",2,"Lower",325.78,0,7
+"cb41912524b8b601","Dillon, Brandon",48,"No","Planner","b48d95292b49",4,"Lower",532.99,28.8,21
