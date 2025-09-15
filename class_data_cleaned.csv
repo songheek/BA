@@ -1,0 +1,63 @@
+ID,Section,Courses_Taken,Credits_Taken,Study_Hours_Per_Week,Fun_Hours_Per_Week,Happiness_Level,Preferred_Cafeteria,Favorite_Word,MBTI,MBTI_E_I,MBTI_S_N,MBTI_T_F,MBTI_J_P
+1,Monday section (Section 001),7,21,14,14.0,5,None Of The Above,Korean,ISFP,0,1,0,0
+2,Monday section (Section 001),5,15,10,20.0,5,Jahayeon Cafeteria,Apple,ISTJ,0,1,1,1
+3,Monday section (Section 001),6,18,4,10.0,4,Jahayeon Cafeteria,Love,ISTJ,0,1,1,1
+4,Tuesday section (Section 002),3,9,8,10.0,4,None Of The Above,Precious,ISTJ,0,1,1,1
+5,Tuesday section (Section 002),7,21,18,20.0,4,None Of The Above,Sincerity,ESTJ,1,1,1,1
+6,Monday section (Section 001),6,16,6,12.0,4,Dongwon Cafeteria,Exquisite,INTP,0,0,1,0
+7,Monday section (Section 001),5,12,12,35.0,4,None Of The Above,Innovation,ENFJ,1,0,0,1
+8,Tuesday section (Section 002),4,12,10,10.0,4,Student Cafeteria (Cafeteria No.1),Progress,ENFJ,1,0,0,1
+9,Monday section (Section 001),4,12,25,15.0,4,Dongwon Cafeteria,Conundrum,ISFJ,0,1,0,1
+10,Monday section (Section 001),6,18,3,35.0,3,Dongwon Cafeteria,Iridescent,ISTJ,0,1,1,1
+11,Tuesday section (Section 002),8,20,45,15.0,3,None Of The Above,Happy,INTP,0,0,1,0
+12,Tuesday section (Section 002),5,15,12,,4,None Of The Above,A pillock,UNKNOWN,,,,
+13,Tuesday section (Section 002),5,15,14,27.0,3,Dongwon Cafeteria,Congrats,ISTJ,0,1,1,1
+14,Tuesday section (Section 002),3,8,15,15.0,4,Dongwon Cafeteria,Workout,ISTJ,0,1,1,1
+15,Tuesday section (Section 002),4,12,14,35.0,3,None Of The Above,Magical,UNKNOWN,,,,
+16,Tuesday section (Section 002),5,15,40,20.0,5,Student Cafeteria (Cafeteria No.1),Consistency,ESFJ,1,1,0,1
+17,Tuesday section (Section 002),7,21,40,20.0,3,None Of The Above,Mercy,UNKNOWN,,,,
+18,Monday section (Section 001),8,21,10,100.0,5,Dongwon Cafeteria,Love,ISTJ,0,1,1,1
+19,Tuesday section (Section 002),6,17,12,6.0,4,Dongwon Cafeteria,Resilience,ESTJ,1,1,1,1
+20,Tuesday section (Section 002),5,14,40,10.0,4,None Of The Above,Kismet,UNKNOWN,,,,
+21,Tuesday section (Section 002),7,19,15,15.0,3,None Of The Above,Always,ISFJ,0,1,0,1
+22,Tuesday section (Section 002),6,18,60,20.0,3,None Of The Above,Individual,ISFJ,0,1,0,1
+23,Tuesday section (Section 002),7,21,60,10.0,4,Student Cafeteria (Cafeteria No.1),Happiness,ISTP,0,1,1,0
+24,Tuesday section (Section 002),8,21,55,10.0,4,Dongwon Cafeteria,Wave,INTJ,0,0,1,1
+25,Tuesday section (Section 002),9,19,20,9.0,5,Dongwon Cafeteria,Confidence,ESTJ,1,1,1,1
+26,Tuesday section (Section 002),4,12,6,24.0,4,Student Cafeteria (Cafeteria No.1),Pasta,UNKNOWN,,,,
+27,Tuesday section (Section 002),7,21,15,15.0,3,None Of The Above,Ethereal,INTJ,0,0,1,1
+28,Monday section (Section 001),5,16,25,15.0,4,None Of The Above,Sushi,UNKNOWN,,,,
+29,Monday section (Section 001),5,14,30,10.0,4,Student Cafeteria (Cafeteria No.1),Together,ENTJ,1,0,1,1
+30,Monday section (Section 001),5,14,6,4.0,2,None Of The Above,Progress,INTP,0,0,1,0
+31,Tuesday section (Section 002),7,18,3,40.0,2,Student Cafeteria (Cafeteria No.1),Freedom,ISTP,0,1,1,0
+32,Tuesday section (Section 002),4,12,4,8.0,5,Student Cafeteria (Cafeteria No.1),Money,ENFJ,1,0,0,1
+33,Tuesday section (Section 002),6,18,8,20.0,3,Jahayeon Cafeteria,Ephemeral,UNKNOWN,,,,
+34,Monday section (Section 001),6,16,30,5.0,3,Dongwon Cafeteria,Bundle(it sounds so cute),INTP,0,0,1,0
+35,Monday section (Section 001),6,18,8,10.0,4,Dongwon Cafeteria,Comet,INTP,0,0,1,0
+36,Tuesday section (Section 002),3,9,8,12.0,4,None Of The Above,"As long as a person wants to change their life and embrace a new one, a whole new world will unfold before them.",ESTJ,1,1,1,1
+37,Tuesday section (Section 002),6,18,30,24.0,4,Dongwon Cafeteria,Sacrifice,INFP,0,0,0,0
+38,Monday section (Section 001),5,15,24,24.0,3,Student Cafeteria (Cafeteria No.1),Food,UNKNOWN,,,,
+39,Tuesday section (Section 002),7,19,40,20.0,4,None Of The Above,Nonchalant,INTJ,0,0,1,1
+40,Tuesday section (Section 002),6,16,30,10.0,4,None Of The Above,Cool,ESTJ,1,1,1,1
+41,Tuesday section (Section 002),6,18,8,20.0,3,None Of The Above,Strawberry,ENTJ,1,0,1,1
+42,Tuesday section (Section 002),5,15,12,25.0,5,Student Cafeteria (Cafeteria No.1),Discombobulated,INTJ,0,0,1,1
+43,Tuesday section (Section 002),7,19,7,21.0,4,Student Cafeteria (Cafeteria No.1),Literally,ENTP,1,0,1,0
+44,Monday section (Section 001),7,21,30,20.0,3,Dongwon Cafeteria,Happiness,UNKNOWN,,,,
+45,Monday section (Section 001),6,18,36,1.0,4,None Of The Above,Anemoia,INTP,0,0,1,0
+46,Tuesday section (Section 002),7,21,15,25.0,2,Dongwon Cafeteria,Finish,ISTP,0,1,1,0
+47,Monday section (Section 001),3,9,9,6.0,5,None Of The Above,Origin,ENTJ,1,0,1,1
+48,Tuesday section (Section 002),5,15,2,5.0,3,Dongwon Cafeteria,Sleep,INTJ,0,0,1,1
+49,Tuesday section (Section 002),5,15,20,15.0,5,None Of The Above,Siblings,UNKNOWN,,,,
+50,Monday section (Section 001),5,15,40,20.0,4,Student Cafeteria (Cafeteria No.1),Chimichanga,UNKNOWN,,,,
+51,Tuesday section (Section 002),7,19,5,10.0,4,Jahayeon Cafeteria,Love,ESTJ,1,1,1,1
+52,Tuesday section (Section 002),6,18,24,8.0,3,Dongwon Cafeteria,Peace,ISTJ,0,1,1,1
+53,Monday section (Section 001),5,15,32,15.0,4,Dongwon Cafeteria,Luck,UNKNOWN,,,,
+54,Monday section (Section 001),5,14,10,15.0,3,Dongwon Cafeteria,Growth,INFJ,0,0,0,1
+55,Monday section (Section 001),7,21,6,21.0,4,Student Cafeteria (Cafeteria No.1),Wow,ISFP,0,1,0,0
+56,Tuesday section (Section 002),4,12,5,50.0,4,Student Cafeteria (Cafeteria No.1),God,INFJ,0,0,0,1
+57,Monday section (Section 001),3,9,5,20.0,4,None Of The Above,Belief,ENTP,1,0,1,0
+58,Tuesday section (Section 002),5,15,6,6.0,5,Student Cafeteria (Cafeteria No.1),Dovetail,INTJ,0,0,1,1
+59,Monday section (Section 001),7,20,6,12.0,2,Dongwon Cafeteria,Challenge,ENTP,1,0,1,0
+60,Monday section (Section 001),6,18,40,20.0,3,Student Cafeteria (Cafeteria No.1),Reverie,INTJ,0,0,1,1
+61,Tuesday section (Section 002),5,15,5,30.0,4,None Of The Above,Antediluvian,UNKNOWN,,,,
+62,Monday section (Section 001),5,15,24,36.0,4,Dongwon Cafeteria,Trust,ESTJ,1,1,1,1
