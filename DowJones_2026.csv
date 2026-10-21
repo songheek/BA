@@ -1,0 +1,31 @@
+Company,Symbol,Industry,Share Price ($),Volume
+Apple,AAPL,Technology,339.5,35764400
+Amazon,AMZN,Retail,262.63,34767800
+American Express,AXP,Financial,318.34,3948200
+Amgen,AMGN,Pharmaceuticals,438.94,2215900
+Boeing,BA,Manufacturing,190.47,7408500
+Caterpillar,CAT,Manufacturing,725.24,2654200
+Salesforce,CRM,Technology,242.43,8137800
+Cisco Systems,CSCO,Technology,106.71,10747500
+Chevron Corporation,CVX,"Chemical, Oil, and Gas",225.71,8011900
+Disney,DIS,Entertainment,111.67,7948900
+Alphabet,GOOGL,Technology,340.28,18215400
+Goldman Sachs,GS,Financial,884.81,2300100
+The Home Depot,HD,Retail,315.11,4016200
+Honeywell,HON,Conglomerate,213.32,2238000
+IBM,IBM,Technology,241.92,5746300
+Johnson & Johnson,JNJ,Pharmaceuticals,259.36,7659800
+JPMorgan Chase,JPM,Banking,335.26,6157500
+Coca-Cola,KO,Food and Drink,93.49,15964300
+McDonald's,MCD,Food and Drink,246.52,5498800
+3M,MMM,Conglomerate,171.37,7680700
+Merck,MRK,Pharmaceuticals,148.3,9902800
+Microsoft,MSFT,Technology,531.87,14503700
+Nike,NKE,Consumer Goods,37.88,24422600
+Nvidia,NVDA,Technology,216.47,78967900
+Procter & Gamble,PG,Consumer Goods,159.32,9746200
+Sherwin-Williams,SHW,"Chemical, Oil, and Gas",336.01,1693300
+Travelers,TRV,Insurance,395.73,1747800
+UnitedHealth Group,UNH,Healthcare,419.26,6811200
+Visa,V,Financial,406.57,6704500
+Walmart,WMT,Retail,117.85,21819800
